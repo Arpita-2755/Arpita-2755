@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpita Mishra. I am a Tech Enthusiast!
 - 👀 I’m interested in Coding , Robotics, Machine Learning, Web Development, Watching Marvel movies, Travelling , Knowing tech facts, and there are a lot more things... 
-- 🌱 I’m currently learning Multiple Coding languages and other tech related stuff. I already have gained my expertise in Pyhton (Personal Favourite) ,MySql, C, Html, CSS, Javascript and Dbms.  
+- 🌱 I’m currently learning Multiple Coding languages and other tech related stuff. I already have gained my expertise in Python (Personal Favourite) ,MySql, C, Html, CSS, Javascript and Dbms.  
 - 💞️ I’m looking to collaborate on Live Projects.
 - 📫 How to reach me : gmail: arpitamishra2755@gmail.com
 - 😄 Pronouns: she/her.
